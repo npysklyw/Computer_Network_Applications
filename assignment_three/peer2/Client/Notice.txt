@@ -1,0 +1,4 @@
+Hi there,
+
+The lab conditinoally works with some iamges, subt some do not work. The bug present is very hard to fix as it as to do with the closeness caculation. 
+Clients only have two options in their DHT as each peer seems to replace one another. Clients can get easily stuck in a "deadlock" of sorts as the DHTs don't seem to popualte properly.

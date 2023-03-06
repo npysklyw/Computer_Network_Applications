@@ -1,0 +1,3 @@
+I have the ImageDB which is the main ImageDB file. I have the server as Server. You can start server with node KADpeerDB.js.
+The instructions are similar for assignment two. I was able to propagate images through the network, however I did sometimes receive the occasional bug. The bug
+was related to two peers continuously sending search packets to one another. The port used to send a search packet was random, so it was difficult to prevent this. However, for four out of the five images present the network will work.
